@@ -1,0 +1,3 @@
+THe MV command is a shell command that moves file from one directory to another. 
+It takes two parameters; the first is the file you want to move; and the second is the destination path where you want to move it. 
+This shell command is also able to rename files.
