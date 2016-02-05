@@ -1,1 +1,1 @@
-the grep function can be used to search through input files or from a input stream. It will output any line containing the matching pattern.Grep uses basic reg expressions for pattern matching.
+The grep function can be used to search through input files or from a input stream. It will output any line containing the matching pattern.Grep uses basic reg expressions for pattern matching.
